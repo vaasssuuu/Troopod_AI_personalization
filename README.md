@@ -3,7 +3,7 @@
 **Candidate:** Vatsalya Soni
 **Role:** AI Product Manager Intern - Troopod
 
-🔗 **(https://troopodaipersonalization.streamlit.app/)** 
+🔗 **Live Demo:** [Troopod AI Personalization App](https://troopodaipersonalization.streamlit.app/)
 ## 📖 Overview
 This repository contains a functional prototype for a dynamic landing page personalization engine. The product goal is to solve the conversion drop-off that occurs when highly targeted ad creatives drive traffic to generic, unpersonalized landing pages. 
 
